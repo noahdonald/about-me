@@ -1,0 +1,70 @@
+header{
+    font-size: xx-large;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    font-family: 'Calibri';
+    font-size: 12pt;
+    background-image: url("https://cdn.wallpaperhub.app/cloudcache/f/f/7/6/0/c/ff760c9a95a444021c40766be7de1907679af4af.jpg");
+}
+
+p{
+    margin-bottom: 10px;
+}
+
+.prof-pic{
+    float: right;
+    box-shadow: 5px 10px 20px 10px;
+    height:500px;
+    width:500px;
+}
+
+h2{
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-size: x-large;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a{
+    text-decoration:none;
+}
+    
+a:hover {
+    text-decoration:underline;
+}
+
+#poem{
+    text-align: center;
+}
+
+th, td{
+    padding:3px;
+}
+
+table, th, td{
+    border-spacing: 3px;
+    border: 1px solid;
+    padding: 3px;
+    background-color:white;
+
+}
+
+.ECE3710{
+    background-color: lightgreen;
+}
+
+.work{
+    background-color: lightpink;
+}
+
+.online{
+    background-color: aqua;
+}
+
+#online-head{
+    font-weight: bolder;
+}
